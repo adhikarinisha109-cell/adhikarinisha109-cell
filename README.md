@@ -29,4 +29,4 @@ AWS (IAM, VPC, CloudTrail, Security Hub) • Kali Linux • Nmap • Metasploit 
 
 ### 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/nishaadh/
-- Email: [your email here]  
+- Email: adhikarinisha109@gmail.com  
